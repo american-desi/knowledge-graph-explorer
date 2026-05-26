@@ -1,0 +1,5009 @@
+{
+  "nodes": [
+    {
+      "id": "elon_musk",
+      "label": "Elon Musk",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 4
+      }
+    },
+    {
+      "id": "tesla",
+      "label": "Tesla",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "san_francisco",
+      "label": "San Francisco",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 10
+      }
+    },
+    {
+      "id": "2003",
+      "label": "2003",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "austin",
+      "label": "Austin",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "texas",
+      "label": "Texas",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "electric_vehicles",
+      "label": "electric vehicles",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "spacex",
+      "label": "SpaceX",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "hawthorne",
+      "label": "Hawthorne",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "california",
+      "label": "California",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 11
+      }
+    },
+    {
+      "id": "lockheed_martin",
+      "label": "Lockheed Martin",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "boeing",
+      "label": "Boeing",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "larry_page",
+      "label": "Larry Page",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "sergey_brin",
+      "label": "Sergey Brin",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "google",
+      "label": "Google",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 13
+      }
+    },
+    {
+      "id": "stanford",
+      "label": "Stanford",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "1998",
+      "label": "1998",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "alphabet",
+      "label": "Alphabet",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "mountain_view",
+      "label": "Mountain View",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "pagerank",
+      "label": "PageRank",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "sundar_pichai",
+      "label": "Sundar Pichai",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "google_and_alphabet",
+      "label": "Google and Alphabet",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "android",
+      "label": "Android",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "chrome",
+      "label": "Chrome",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "tensorflow",
+      "label": "TensorFlow",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "mark_zuckerberg",
+      "label": "Mark Zuckerberg",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "facebook",
+      "label": "Facebook",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "harvard",
+      "label": "Harvard",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2004",
+      "label": "2004",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "meta",
+      "label": "Meta",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 5
+      }
+    },
+    {
+      "id": "menlo_park",
+      "label": "Menlo Park",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "instagram",
+      "label": "Instagram",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2012",
+      "label": "2012",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2014",
+      "label": "2014",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "virtual_reality",
+      "label": "virtual reality",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "apple",
+      "label": "Apple",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 8
+      }
+    },
+    {
+      "id": "steve_jobs",
+      "label": "Steve Jobs",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "steve_wozniak",
+      "label": "Steve Wozniak",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "cupertino",
+      "label": "Cupertino",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "1976",
+      "label": "1976",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "tim_cook",
+      "label": "Tim Cook",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "2011",
+      "label": "2011",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "microsoft",
+      "label": "Microsoft",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 13
+      }
+    },
+    {
+      "id": "samsung",
+      "label": "Samsung",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "bill_gates",
+      "label": "Bill Gates",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "paul_allen",
+      "label": "Paul Allen",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "washington",
+      "label": "Washington",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "redmond",
+      "label": "Redmond",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "1975",
+      "label": "1975",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "windows",
+      "label": "Windows",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "satya_nadella",
+      "label": "Satya Nadella",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "azure",
+      "label": "Azure",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "cloud_computing",
+      "label": "cloud computing",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 4
+      }
+    },
+    {
+      "id": "github",
+      "label": "GitHub",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2016",
+      "label": "2016",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2018",
+      "label": "2018",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "jeff_bezos",
+      "label": "Jeff Bezos",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 8
+      }
+    },
+    {
+      "id": "seattle",
+      "label": "Seattle",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "1994",
+      "label": "1994",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "andy_jassy",
+      "label": "Andy Jassy",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "aws",
+      "label": "AWS",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "2017",
+      "label": "2017",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "sam_altman",
+      "label": "Sam Altman",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "openai",
+      "label": "OpenAI",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 4
+      }
+    },
+    {
+      "id": "chatgpt",
+      "label": "ChatGPT",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "gpt4",
+      "label": "GPT-4",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "artificial_intelligence",
+      "label": "artificial intelligence",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "ai",
+      "label": "AI",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.7,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "anthropic",
+      "label": "Anthropic",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "deepmind",
+      "label": "DeepMind",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 5
+      }
+    },
+    {
+      "id": "demis_hassabis",
+      "label": "Demis Hassabis",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "london",
+      "label": "London",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2010",
+      "label": "2010",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "reinforcement_learning",
+      "label": "reinforcement learning",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "go",
+      "label": "Go",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "deep_learning",
+      "label": "deep learning",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "geoffrey_hinton",
+      "label": "Geoffrey Hinton",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "yann_lecun",
+      "label": "Yann LeCun",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "yoshua_bengio",
+      "label": "Yoshua Bengio",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "lecun",
+      "label": "LeCun",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "canada",
+      "label": "Canada",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "toronto",
+      "label": "Toronto",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.7,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "montreal",
+      "label": "Montreal",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.75,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "university_of_toronto",
+      "label": "University of Toronto",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "machine_learning",
+      "label": "machine learning",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "neural_network",
+      "label": "neural network",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "jensen_huang",
+      "label": "Jensen Huang",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "nvidia",
+      "label": "NVIDIA",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 4
+      }
+    },
+    {
+      "id": "1993",
+      "label": "1993",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "gpu",
+      "label": "GPU",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "amd",
+      "label": "AMD",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "intel",
+      "label": "Intel",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 5
+      }
+    },
+    {
+      "id": "semiconductor",
+      "label": "semiconductor",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "lisa_su",
+      "label": "Lisa Su",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "tim_bernerslee",
+      "label": "Tim Berners-Lee",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "cern",
+      "label": "CERN",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "switzerland",
+      "label": "Switzerland",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "geneva",
+      "label": "Geneva",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "world_wide_web",
+      "label": "World Wide Web",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "1989",
+      "label": "1989",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "internet",
+      "label": "Internet",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.7,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "http",
+      "label": "HTTP",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "html",
+      "label": "HTML",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "world_wide_web_consortium",
+      "label": "World Wide Web Consortium",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "vint_cerf",
+      "label": "Vint Cerf",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "darpa",
+      "label": "DARPA",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "tcpip",
+      "label": "TCP/IP",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "jack_dorsey",
+      "label": "Jack Dorsey",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "twitter",
+      "label": "Twitter",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2006",
+      "label": "2006",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2022",
+      "label": "2022",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "reid_hoffman",
+      "label": "Reid Hoffman",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "kevin_systrom",
+      "label": "Kevin Systrom",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "daniel_ek",
+      "label": "Daniel Ek",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "spotify",
+      "label": "Spotify",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "sweden",
+      "label": "Sweden",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "stockholm",
+      "label": "Stockholm",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "reed_hastings",
+      "label": "Reed Hastings",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "netflix",
+      "label": "Netflix",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "disney",
+      "label": "Disney",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "los_angeles",
+      "label": "Los Angeles",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "disney_and_amazon",
+      "label": "Disney and Amazon",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "alan_turing",
+      "label": "Alan Turing",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "1912",
+      "label": "1912",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "cambridge",
+      "label": "Cambridge",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "grace_hopper",
+      "label": "Grace Hopper",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "united_states",
+      "label": "United States",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "john_von_neumann",
+      "label": "John von Neumann",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "princeton",
+      "label": "Princeton",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "claude_shannon",
+      "label": "Claude Shannon",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "bell_labs",
+      "label": "Bell Labs",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "linus_torvalds",
+      "label": "Linus Torvalds",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "linux",
+      "label": "Linux",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "finland",
+      "label": "Finland",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "helsinki",
+      "label": "Helsinki",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.7,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "1991",
+      "label": "1991",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "university_of_helsinki",
+      "label": "University of Helsinki",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "guido_van_rossum",
+      "label": "Guido van Rossum",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "netherlands",
+      "label": "Netherlands",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "python",
+      "label": "Python",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "gordon_moore",
+      "label": "Gordon Moore",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "robert_noyce",
+      "label": "Robert Noyce",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "1968",
+      "label": "1968",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "microprocessor",
+      "label": "microprocessor",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "cpu",
+      "label": "CPU",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "pat_gelsinger",
+      "label": "Pat Gelsinger",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "south_korea",
+      "label": "South Korea",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "seoul",
+      "label": "Seoul",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "taiwan",
+      "label": "Taiwan",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "silicon_valley",
+      "label": "Silicon Valley",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "albert_einstein",
+      "label": "Albert Einstein",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "germany",
+      "label": "Germany",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "marie_curie",
+      "label": "Marie Curie",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "france",
+      "label": "France",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "poland",
+      "label": "Poland",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "paris",
+      "label": "Paris",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "berkeley",
+      "label": "Berkeley",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "crisprcas9",
+      "label": "CRISPR-Cas9",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "crispr",
+      "label": "CRISPR",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "moderna",
+      "label": "Moderna",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "pfizer",
+      "label": "Pfizer",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "mrna",
+      "label": "mRNA",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "larry_ellison",
+      "label": "Larry Ellison",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "oracle",
+      "label": "Oracle",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "1977",
+      "label": "1977",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "relational_database",
+      "label": "relational database",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "marc_benioff",
+      "label": "Marc Benioff",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "salesforce",
+      "label": "Salesforce",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "1999",
+      "label": "1999",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "oracle_and_microsoft",
+      "label": "Oracle and Microsoft",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.6,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "stewart_butterfield",
+      "label": "Stewart Butterfield",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "git",
+      "label": "Git",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "selfdriving",
+      "label": "self-driving",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "travis_kalanick",
+      "label": "Travis Kalanick",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "uber",
+      "label": "Uber",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "autonomous_vehicles",
+      "label": "autonomous vehicles",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "computer_vision",
+      "label": "computer vision",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "lidar",
+      "label": "LiDAR",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "peter_thiel",
+      "label": "Peter Thiel",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "max_levchin",
+      "label": "Max Levchin",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "paypal",
+      "label": "PayPal",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "san_jose",
+      "label": "San Jose",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "stripe",
+      "label": "Stripe",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "square",
+      "label": "Square",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "jack_ma",
+      "label": "Jack Ma",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "china",
+      "label": "China",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 3
+      }
+    },
+    {
+      "id": "asia",
+      "label": "Asia",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "pony_ma",
+      "label": "Pony Ma",
+      "type": "PERSON",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "shenzhen",
+      "label": "Shenzhen",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "ibm",
+      "label": "IBM",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.95,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "quantum_computing",
+      "label": "quantum computing",
+      "type": "TECHNOLOGY",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 2
+      }
+    },
+    {
+      "id": "2019",
+      "label": "2019",
+      "type": "DATE",
+      "properties": {
+        "confidence": 0.85,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "new_york",
+      "label": "New York",
+      "type": "LOCATION",
+      "properties": {
+        "confidence": 0.9,
+        "mentions": 1
+      }
+    },
+    {
+      "id": "york",
+      "label": "York",
+      "type": "ORGANIZATION",
+      "properties": {
+        "confidence": 0.7,
+        "mentions": 1
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "elon_musk",
+      "target": "tesla",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Elon Musk co-founded Tesla in San Francisco in 2003 and serves as its CEO."
+      }
+    },
+    {
+      "source": "tesla",
+      "target": "san_francisco",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Elon Musk co-founded Tesla in San Francisco in 2003 and serves as its CEO."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "san_francisco",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Elon Musk co-founded Tesla in San Francisco in 2003 and serves as its CEO."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "2003",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Elon Musk co-founded Tesla in San Francisco in 2003 and serves as its CEO."
+      }
+    },
+    {
+      "source": "tesla",
+      "target": "austin",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Tesla is headquartered in Austin, Texas and develops electric vehicles and autonomous driving technology."
+      }
+    },
+    {
+      "source": "tesla",
+      "target": "texas",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Tesla is headquartered in Austin, Texas and develops electric vehicles and autonomous driving technology."
+      }
+    },
+    {
+      "source": "tesla",
+      "target": "electric_vehicles",
+      "type": "developed",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Tesla is headquartered in Austin, Texas and develops electric vehicles and autonomous driving technology."
+      }
+    },
+    {
+      "source": "spacex",
+      "target": "hawthorne",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Musk also founded SpaceX in Hawthorne, California, which develops reusable rockets and spacecraft."
+      }
+    },
+    {
+      "source": "spacex",
+      "target": "california",
+      "type": "located_in",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Musk also founded SpaceX in Hawthorne, California, which develops reusable rockets and spacecraft."
+      }
+    },
+    {
+      "source": "spacex",
+      "target": "boeing",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "SpaceX competes with Boeing and Lockheed Martin in the space launch industry."
+      }
+    },
+    {
+      "source": "spacex",
+      "target": "lockheed_martin",
+      "type": "competes_with",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "SpaceX competes with Boeing and Lockheed Martin in the space launch industry."
+      }
+    },
+    {
+      "source": "lockheed_martin",
+      "target": "boeing",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "SpaceX competes with Boeing and Lockheed Martin in the space launch industry."
+      }
+    },
+    {
+      "source": "stanford",
+      "target": "california",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "sergey_brin",
+      "target": "google",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "larry_page",
+      "target": "google",
+      "type": "founded_by",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "larry_page",
+      "target": "1998",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "larry_page",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "sergey_brin",
+      "target": "stanford",
+      "type": "founded_by",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "sergey_brin",
+      "target": "1998",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "sergey_brin",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "google",
+      "target": "stanford",
+      "type": "partner_of",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "google",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "stanford",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Larry Page and Sergey Brin co-founded Google in 1998 while they were PhD students at Stanford in California."
+      }
+    },
+    {
+      "source": "google",
+      "target": "alphabet",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "google",
+      "target": "mountain_view",
+      "type": "located_in",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Google developed Waymo, an autonomous vehicle subsidiary based in Mountain View, California."
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "mountain_view",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Google, now a subsidiary of Alphabet, is headquartered in Mountain View and developed the PageRank algorithm that revolutionized web search."
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "pagerank",
+      "type": "developed",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Google, now a subsidiary of Alphabet, is headquartered in Mountain View and developed the PageRank algorithm that revolutionized web search."
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "pagerank",
+      "type": "located_in",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Google, now a subsidiary of Alphabet, is headquartered in Mountain View and developed the PageRank algorithm that revolutionized web search."
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "google",
+      "target": "sundar_pichai",
+      "type": "works_for",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "google",
+      "target": "google_and_alphabet",
+      "type": "works_for",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "sundar_pichai",
+      "type": "works_for",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "alphabet",
+      "target": "google_and_alphabet",
+      "type": "works_for",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "sundar_pichai",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "google_and_alphabet",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Sundar Pichai serves as CEO of both Google and Alphabet."
+      }
+    },
+    {
+      "source": "google",
+      "target": "android",
+      "type": "partner_of",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "google",
+      "target": "chrome",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "google",
+      "target": "android",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "google",
+      "target": "tensorflow",
+      "type": "developed",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "google",
+      "target": "tensorflow",
+      "type": "works_for",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "android",
+      "target": "chrome",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "android",
+      "target": "android",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "android",
+      "target": "tensorflow",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "android",
+      "target": "tensorflow",
+      "type": "works_for",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "android",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "tensorflow",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Google also developed Android, Chrome, and TensorFlow."
+      }
+    },
+    {
+      "source": "mark_zuckerberg",
+      "target": "facebook",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Mark Zuckerberg founded Facebook in 2004 while studying at Harvard."
+      }
+    },
+    {
+      "source": "mark_zuckerberg",
+      "target": "harvard",
+      "type": "founded_by",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Mark Zuckerberg founded Facebook in 2004 while studying at Harvard."
+      }
+    },
+    {
+      "source": "mark_zuckerberg",
+      "target": "2004",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Mark Zuckerberg founded Facebook in 2004 while studying at Harvard."
+      }
+    },
+    {
+      "source": "facebook",
+      "target": "harvard",
+      "type": "partner_of",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Mark Zuckerberg founded Facebook in 2004 while studying at Harvard."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "menlo_park",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "The company, now called Meta, is headquartered in Menlo Park, California."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "instagram",
+      "type": "acquired",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Meta acquired Instagram in 2012 and WhatsApp in 2014."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "whatsapp",
+      "type": "acquired",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Meta acquired Instagram in 2012 and WhatsApp in 2014."
+      }
+    },
+    {
+      "source": "whatsapp",
+      "target": "instagram",
+      "type": "acquired",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Meta acquired Instagram in 2012 and WhatsApp in 2014."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "google",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Meta competes with Google and Apple in the technology sector."
+      }
+    },
+    {
+      "source": "google",
+      "target": "meta",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Meta competes with Google and Apple in the technology sector."
+      }
+    },
+    {
+      "source": "google",
+      "target": "apple",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Meta competes with Google and Apple in the technology sector."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "apple",
+      "type": "competes_with",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Meta competes with Google and Apple in the technology sector."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Meta competes with Google and Apple in the technology sector."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Meta competes with Google and Apple in the technology sector."
+      }
+    },
+    {
+      "source": "steve_wozniak",
+      "target": "apple",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Steve Jobs and Steve Wozniak co-founded Apple in 1976 in a garage in Cupertino, California."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "steve_jobs",
+      "type": "founded_by",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Steve Jobs and Steve Wozniak co-founded Apple in 1976 in a garage in Cupertino, California."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "steve_wozniak",
+      "type": "founded_by",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Steve Jobs and Steve Wozniak co-founded Apple in 1976 in a garage in Cupertino, California."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "cupertino",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Apple is headquartered in Cupertino and competes with Samsung, Google, and Microsoft."
+      }
+    },
+    {
+      "source": "steve_jobs",
+      "target": "1976",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Steve Jobs and Steve Wozniak co-founded Apple in 1976 in a garage in Cupertino, California."
+      }
+    },
+    {
+      "source": "steve_wozniak",
+      "target": "cupertino",
+      "type": "born_in",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Steve Jobs and Steve Wozniak co-founded Apple in 1976 in a garage in Cupertino, California."
+      }
+    },
+    {
+      "source": "steve_wozniak",
+      "target": "1976",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Steve Jobs and Steve Wozniak co-founded Apple in 1976 in a garage in Cupertino, California."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "tim_cook",
+      "type": "works_for",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Tim Cook became CEO of Apple after Jobs passed away in 2011."
+      }
+    },
+    {
+      "source": "tim_cook",
+      "target": "2011",
+      "type": "born_in",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Tim Cook became CEO of Apple after Jobs passed away in 2011."
+      }
+    },
+    {
+      "source": "google",
+      "target": "cupertino",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Apple is headquartered in Cupertino and competes with Samsung, Google, and Microsoft."
+      }
+    },
+    {
+      "source": "google",
+      "target": "microsoft",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "google",
+      "target": "samsung",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Apple is headquartered in Cupertino and competes with Samsung, Google, and Microsoft."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "microsoft",
+      "type": "competes_with",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Apple is headquartered in Cupertino and competes with Samsung, Google, and Microsoft."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "samsung",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Samsung competes with Apple in smartphones and with Intel in chip manufacturing."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "samsung",
+      "type": "competes_with",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Apple is headquartered in Cupertino and competes with Samsung, Google, and Microsoft."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "samsung",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Apple is headquartered in Cupertino and competes with Samsung, Google, and Microsoft."
+      }
+    },
+    {
+      "source": "paul_allen",
+      "target": "microsoft",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "bill_gates",
+      "type": "founded_by",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "paul_allen",
+      "type": "founded_by",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "washington",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "redmond",
+      "type": "located_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "bill_gates",
+      "target": "washington",
+      "type": "born_in",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "bill_gates",
+      "target": "redmond",
+      "type": "born_in",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "bill_gates",
+      "target": "1975",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "paul_allen",
+      "target": "washington",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "paul_allen",
+      "target": "redmond",
+      "type": "born_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "paul_allen",
+      "target": "1975",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Bill Gates and Paul Allen co-founded Microsoft in 1975 in Redmond, Washington."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "windows",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Microsoft developed Windows, the most widely used operating system in the world."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "windows",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Microsoft developed Windows, the most widely used operating system in the world."
+      }
+    },
+    {
+      "source": "windows",
+      "target": "windows",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Microsoft developed Windows, the most widely used operating system in the world."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "satya_nadella",
+      "type": "works_for",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Satya Nadella became CEO of Microsoft in 2014 and led the company's transformation toward cloud computing with Azure."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "cloud_computing",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "linkedin",
+      "type": "acquired",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "github",
+      "type": "acquired",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "github",
+      "type": "developed",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "git",
+      "type": "developed",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "github",
+      "target": "linkedin",
+      "type": "acquired",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "github",
+      "target": "github",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "github",
+      "target": "git",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "linkedin",
+      "target": "github",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "linkedin",
+      "target": "git",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Microsoft acquired LinkedIn in 2016 and GitHub in 2018."
+      }
+    },
+    {
+      "source": "jeff_bezos",
+      "target": "amazon",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Jeff Bezos founded Amazon in 1994 in Seattle, Washington."
+      }
+    },
+    {
+      "source": "jeff_bezos",
+      "target": "seattle",
+      "type": "born_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Jeff Bezos founded Amazon in 1994 in Seattle, Washington."
+      }
+    },
+    {
+      "source": "jeff_bezos",
+      "target": "1994",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Jeff Bezos founded Amazon in 1994 in Seattle, Washington."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "seattle",
+      "type": "located_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Jeff Bezos founded Amazon in 1994 in Seattle, Washington."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "andy_jassy",
+      "type": "works_for",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Andy Jassy became CEO of Amazon in 2021."
+      }
+    },
+    {
+      "source": "andy_jassy",
+      "target": "2021",
+      "type": "born_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Andy Jassy became CEO of Amazon in 2021."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "aws",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Amazon developed AWS, the leading cloud computing platform, and acquired Whole Foods in 2017."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "microsoft",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "google",
+      "target": "cloud_computing",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "google",
+      "target": "amazon",
+      "type": "competes_with",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "amazon",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Amazon competes with Microsoft and Google in cloud computing."
+      }
+    },
+    {
+      "source": "sam_altman",
+      "target": "openai",
+      "type": "works_for",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Sam Altman leads OpenAI, which is based in San Francisco."
+      }
+    },
+    {
+      "source": "sam_altman",
+      "target": "ai",
+      "type": "works_for",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Sam Altman leads OpenAI, which is based in San Francisco."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "ai",
+      "type": "partner_of",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Sam Altman leads OpenAI, which is based in San Francisco."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "chatgpt",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "OpenAI developed ChatGPT and GPT-4, large language models that have transformed artificial intelligence."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "chatgpt",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "OpenAI developed ChatGPT and GPT-4, large language models that have transformed artificial intelligence."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "gpt4",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "OpenAI developed ChatGPT and GPT-4, large language models that have transformed artificial intelligence."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "artificial_intelligence",
+      "type": "developed",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "OpenAI developed ChatGPT and GPT-4, large language models that have transformed artificial intelligence."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "openai",
+      "type": "partner_of",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Microsoft invested in OpenAI and partnered with the company to integrate AI into its products."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "ai",
+      "type": "partner_of",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Microsoft invested in OpenAI and partnered with the company to integrate AI into its products."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "google",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "google",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "google",
+      "target": "openai",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "google",
+      "target": "ai",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "google",
+      "target": "anthropic",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "google",
+      "target": "deepmind",
+      "type": "competes_with",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "ai",
+      "type": "competes_with",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "anthropic",
+      "type": "competes_with",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "deepmind",
+      "type": "competes_with",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "openai",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "anthropic",
+      "type": "competes_with",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "deepmind",
+      "type": "competes_with",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "anthropic",
+      "target": "deepmind",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "anthropic",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "deepmind",
+      "target": "go",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "OpenAI competes with Google DeepMind and Anthropic in the AI industry."
+      }
+    },
+    {
+      "source": "demis_hassabis",
+      "target": "deepmind",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Demis Hassabis co-founded DeepMind in London in 2010."
+      }
+    },
+    {
+      "source": "deepmind",
+      "target": "london",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Demis Hassabis co-founded DeepMind in London in 2010."
+      }
+    },
+    {
+      "source": "deepmind",
+      "target": "demis_hassabis",
+      "type": "founded_by",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Demis Hassabis co-founded DeepMind in London in 2010."
+      }
+    },
+    {
+      "source": "demis_hassabis",
+      "target": "london",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Demis Hassabis co-founded DeepMind in London in 2010."
+      }
+    },
+    {
+      "source": "demis_hassabis",
+      "target": "2010",
+      "type": "born_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Demis Hassabis co-founded DeepMind in London in 2010."
+      }
+    },
+    {
+      "source": "google",
+      "target": "deepmind",
+      "type": "acquired",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Google acquired DeepMind in 2014 for over 500 million dollars."
+      }
+    },
+    {
+      "source": "geoffrey_hinton",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are known as the pioneers of deep learning."
+      }
+    },
+    {
+      "source": "yann_lecun",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are known as the pioneers of deep learning."
+      }
+    },
+    {
+      "source": "yoshua_bengio",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are known as the pioneers of deep learning."
+      }
+    },
+    {
+      "source": "lecun",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio are known as the pioneers of deep learning."
+      }
+    },
+    {
+      "source": "lecun",
+      "target": "ai",
+      "type": "works_for",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "montreal",
+      "target": "canada",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "meta",
+      "type": "partner_of",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "ai",
+      "type": "partner_of",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "toronto",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "toronto",
+      "type": "partner_of",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "university_of_toronto",
+      "type": "partner_of",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "google",
+      "target": "lecun",
+      "type": "partner_of",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "ai",
+      "type": "partner_of",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "canada",
+      "type": "located_in",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "toronto",
+      "type": "located_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "toronto",
+      "type": "partner_of",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "montreal",
+      "type": "works_for",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "university_of_toronto",
+      "type": "partner_of",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "lecun",
+      "type": "partner_of",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "lecun",
+      "type": "works_for",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "canada",
+      "type": "located_in",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "toronto",
+      "type": "located_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "toronto",
+      "type": "partner_of",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "montreal",
+      "type": "works_for",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "university_of_toronto",
+      "type": "partner_of",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "ai",
+      "target": "lecun",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "lecun",
+      "target": "toronto",
+      "type": "born_in",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "lecun",
+      "target": "toronto",
+      "type": "works_for",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "lecun",
+      "target": "university_of_toronto",
+      "type": "works_for",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "toronto",
+      "target": "university_of_toronto",
+      "type": "partner_of",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "toronto",
+      "target": "lecun",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "university_of_toronto",
+      "target": "lecun",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Hinton worked at Google and the University of Toronto, LeCun leads AI research at Meta, and Bengio is a professor in Montreal, Canada."
+      }
+    },
+    {
+      "source": "jensen_huang",
+      "target": "nvidia",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Jensen Huang co-founded NVIDIA in 1993 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "jensen_huang",
+      "target": "1993",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Jensen Huang co-founded NVIDIA in 1993 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "nvidia",
+      "target": "gpu",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "NVIDIA developed the GPU, which became essential for deep learning and artificial intelligence."
+      }
+    },
+    {
+      "source": "nvidia",
+      "target": "amd",
+      "type": "competes_with",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "NVIDIA is headquartered in Santa Clara and competes with AMD and Intel in the semiconductor industry."
+      }
+    },
+    {
+      "source": "nvidia",
+      "target": "intel",
+      "type": "competes_with",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "NVIDIA is headquartered in Santa Clara and competes with AMD and Intel in the semiconductor industry."
+      }
+    },
+    {
+      "source": "amd",
+      "target": "intel",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "NVIDIA is headquartered in Santa Clara and competes with AMD and Intel in the semiconductor industry."
+      }
+    },
+    {
+      "source": "amd",
+      "target": "semiconductor",
+      "type": "developed",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "NVIDIA is headquartered in Santa Clara and competes with AMD and Intel in the semiconductor industry."
+      }
+    },
+    {
+      "source": "intel",
+      "target": "semiconductor",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "NVIDIA is headquartered in Santa Clara and competes with AMD and Intel in the semiconductor industry."
+      }
+    },
+    {
+      "source": "lisa_su",
+      "target": "amd",
+      "type": "works_for",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Lisa Su serves as CEO of AMD, which is based in Santa Clara."
+      }
+    },
+    {
+      "source": "amd",
+      "target": "lisa_su",
+      "type": "works_for",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Lisa Su serves as CEO of AMD, which is based in Santa Clara."
+      }
+    },
+    {
+      "source": "cern",
+      "target": "geneva",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Geneva, Switzerland."
+      }
+    },
+    {
+      "source": "tim_bernerslee",
+      "target": "cern",
+      "type": "works_for",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Geneva, Switzerland."
+      }
+    },
+    {
+      "source": "tim_bernerslee",
+      "target": "world_wide_web",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Geneva, Switzerland."
+      }
+    },
+    {
+      "source": "tim_bernerslee",
+      "target": "1989",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Geneva, Switzerland."
+      }
+    },
+    {
+      "source": "cern",
+      "target": "switzerland",
+      "type": "located_in",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Geneva, Switzerland."
+      }
+    },
+    {
+      "source": "cern",
+      "target": "world_wide_web",
+      "type": "developed",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Geneva, Switzerland."
+      }
+    },
+    {
+      "source": "internet",
+      "target": "darpa",
+      "type": "partner_of",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Vint Cerf, working at DARPA, co-developed TCP/IP, the protocol that underpins the Internet."
+      }
+    },
+    {
+      "source": "internet",
+      "target": "tcpip",
+      "type": "developed",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Vint Cerf, working at DARPA, co-developed TCP/IP, the protocol that underpins the Internet."
+      }
+    },
+    {
+      "source": "vint_cerf",
+      "target": "darpa",
+      "type": "works_for",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Vint Cerf, working at DARPA, co-developed TCP/IP, the protocol that underpins the Internet."
+      }
+    },
+    {
+      "source": "vint_cerf",
+      "target": "tcpip",
+      "type": "developed",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Vint Cerf, working at DARPA, co-developed TCP/IP, the protocol that underpins the Internet."
+      }
+    },
+    {
+      "source": "darpa",
+      "target": "tcpip",
+      "type": "developed",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Vint Cerf, working at DARPA, co-developed TCP/IP, the protocol that underpins the Internet."
+      }
+    },
+    {
+      "source": "twitter",
+      "target": "san_francisco",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Jack Dorsey co-founded Twitter in San Francisco in 2006."
+      }
+    },
+    {
+      "source": "jack_dorsey",
+      "target": "twitter",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Jack Dorsey co-founded Twitter in San Francisco in 2006."
+      }
+    },
+    {
+      "source": "jack_dorsey",
+      "target": "2006",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Jack Dorsey co-founded Twitter in San Francisco in 2006."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "twitter",
+      "type": "works_for",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Twitter became a major social media platform before Elon Musk acquired the company in 2022."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "2022",
+      "type": "born_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Twitter became a major social media platform before Elon Musk acquired the company in 2022."
+      }
+    },
+    {
+      "source": "linkedin",
+      "target": "mountain_view",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Reid Hoffman co-founded LinkedIn in Mountain View, which Microsoft acquired in 2016."
+      }
+    },
+    {
+      "source": "reid_hoffman",
+      "target": "linkedin",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Reid Hoffman co-founded LinkedIn in Mountain View, which Microsoft acquired in 2016."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "reid_hoffman",
+      "type": "founded_by",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Reid Hoffman co-founded LinkedIn in Mountain View, which Microsoft acquired in 2016."
+      }
+    },
+    {
+      "source": "linkedin",
+      "target": "reid_hoffman",
+      "type": "founded_by",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Reid Hoffman co-founded LinkedIn in Mountain View, which Microsoft acquired in 2016."
+      }
+    },
+    {
+      "source": "instagram",
+      "target": "san_francisco",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Kevin Systrom co-founded Instagram in San Francisco, and Meta acquired Instagram in 2012."
+      }
+    },
+    {
+      "source": "kevin_systrom",
+      "target": "instagram",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Kevin Systrom co-founded Instagram in San Francisco, and Meta acquired Instagram in 2012."
+      }
+    },
+    {
+      "source": "meta",
+      "target": "kevin_systrom",
+      "type": "founded_by",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Kevin Systrom co-founded Instagram in San Francisco, and Meta acquired Instagram in 2012."
+      }
+    },
+    {
+      "source": "instagram",
+      "target": "kevin_systrom",
+      "type": "founded_by",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Kevin Systrom co-founded Instagram in San Francisco, and Meta acquired Instagram in 2012."
+      }
+    },
+    {
+      "source": "daniel_ek",
+      "target": "spotify",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Daniel Ek co-founded Spotify in Stockholm, Sweden in 2006."
+      }
+    },
+    {
+      "source": "spotify",
+      "target": "stockholm",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Daniel Ek co-founded Spotify in Stockholm, Sweden in 2006."
+      }
+    },
+    {
+      "source": "daniel_ek",
+      "target": "sweden",
+      "type": "born_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Daniel Ek co-founded Spotify in Stockholm, Sweden in 2006."
+      }
+    },
+    {
+      "source": "daniel_ek",
+      "target": "stockholm",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Daniel Ek co-founded Spotify in Stockholm, Sweden in 2006."
+      }
+    },
+    {
+      "source": "spotify",
+      "target": "sweden",
+      "type": "located_in",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Daniel Ek co-founded Spotify in Stockholm, Sweden in 2006."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "amazon",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Spotify developed a music streaming platform that competes with Apple Music and Amazon Music."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "spotify",
+      "type": "competes_with",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Spotify developed a music streaming platform that competes with Apple Music and Amazon Music."
+      }
+    },
+    {
+      "source": "reed_hastings",
+      "target": "netflix",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "netflix",
+      "target": "los_angeles",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "disney",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "los_angeles",
+      "type": "located_in",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "amazon",
+      "target": "disney_and_amazon",
+      "type": "founded_by",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "reed_hastings",
+      "target": "los_angeles",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "netflix",
+      "target": "disney",
+      "type": "competes_with",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "netflix",
+      "target": "disney_and_amazon",
+      "type": "founded_by",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "disney",
+      "target": "los_angeles",
+      "type": "located_in",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "disney",
+      "target": "disney_and_amazon",
+      "type": "founded_by",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Reed Hastings co-founded Netflix in Los Angeles, which pioneered video streaming and competes with Disney and Amazon in the entertainment industry."
+      }
+    },
+    {
+      "source": "alan_turing",
+      "target": "london",
+      "type": "born_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Alan Turing, born in London in 1912, is considered the father of computer science."
+      }
+    },
+    {
+      "source": "alan_turing",
+      "target": "1912",
+      "type": "born_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Alan Turing, born in London in 1912, is considered the father of computer science."
+      }
+    },
+    {
+      "source": "harvard",
+      "target": "united_states",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Grace Hopper developed one of the first compilers and contributed to the development of COBOL while working at Harvard and later for the United States Navy."
+      }
+    },
+    {
+      "source": "claude_shannon",
+      "target": "bell_labs",
+      "type": "founded_by",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Claude Shannon, working at Bell Labs in New Jersey, founded information theory and laid the mathematical foundations for digital computing."
+      }
+    },
+    {
+      "source": "linus_torvalds",
+      "target": "linux",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linus_torvalds",
+      "target": "linux",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "helsinki",
+      "target": "finland",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "university_of_helsinki",
+      "target": "finland",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linus_torvalds",
+      "target": "1991",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linus_torvalds",
+      "target": "university_of_helsinki",
+      "type": "founded_by",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linux",
+      "target": "helsinki",
+      "type": "located_in",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linux",
+      "target": "linux",
+      "type": "developed",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linux",
+      "target": "helsinki",
+      "type": "partner_of",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "linux",
+      "target": "university_of_helsinki",
+      "type": "partner_of",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "helsinki",
+      "target": "university_of_helsinki",
+      "type": "partner_of",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Linus Torvalds created Linux in 1991 while a student at the University of Helsinki in Finland."
+      }
+    },
+    {
+      "source": "android",
+      "target": "linux",
+      "type": "partner_of",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Linux became the foundation for Android, cloud servers, and supercomputers worldwide."
+      }
+    },
+    {
+      "source": "android",
+      "target": "linux",
+      "type": "developed",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Linux became the foundation for Android, cloud servers, and supercomputers worldwide."
+      }
+    },
+    {
+      "source": "guido_van_rossum",
+      "target": "python",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Guido van Rossum created Python in the Netherlands in 1991, and Python became the most popular programming language for machine learning and data science."
+      }
+    },
+    {
+      "source": "guido_van_rossum",
+      "target": "netherlands",
+      "type": "born_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Guido van Rossum created Python in the Netherlands in 1991, and Python became the most popular programming language for machine learning and data science."
+      }
+    },
+    {
+      "source": "robert_noyce",
+      "target": "intel",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Gordon Moore and Robert Noyce co-founded Intel in 1968 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "intel",
+      "target": "gordon_moore",
+      "type": "founded_by",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Gordon Moore and Robert Noyce co-founded Intel in 1968 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "intel",
+      "target": "robert_noyce",
+      "type": "founded_by",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Gordon Moore and Robert Noyce co-founded Intel in 1968 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "gordon_moore",
+      "target": "1968",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Gordon Moore and Robert Noyce co-founded Intel in 1968 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "robert_noyce",
+      "target": "1968",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Gordon Moore and Robert Noyce co-founded Intel in 1968 in Santa Clara, California."
+      }
+    },
+    {
+      "source": "intel",
+      "target": "microprocessor",
+      "type": "developed",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Intel developed the first commercial microprocessor and dominated the CPU market for decades."
+      }
+    },
+    {
+      "source": "intel",
+      "target": "cpu",
+      "type": "developed",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Intel developed the first commercial microprocessor and dominated the CPU market for decades."
+      }
+    },
+    {
+      "source": "pat_gelsinger",
+      "target": "intel",
+      "type": "works_for",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Pat Gelsinger serves as CEO of Intel."
+      }
+    },
+    {
+      "source": "intel",
+      "target": "pat_gelsinger",
+      "type": "works_for",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Pat Gelsinger serves as CEO of Intel."
+      }
+    },
+    {
+      "source": "samsung",
+      "target": "semiconductor",
+      "type": "developed",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Samsung, headquartered in Seoul, South Korea, is the world's largest semiconductor manufacturer."
+      }
+    },
+    {
+      "source": "samsung",
+      "target": "south_korea",
+      "type": "located_in",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Samsung, headquartered in Seoul, South Korea, is the world's largest semiconductor manufacturer."
+      }
+    },
+    {
+      "source": "samsung",
+      "target": "seoul",
+      "type": "located_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Samsung, headquartered in Seoul, South Korea, is the world's largest semiconductor manufacturer."
+      }
+    },
+    {
+      "source": "samsung",
+      "target": "apple",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Samsung competes with Apple in smartphones and with Intel in chip manufacturing."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "intel",
+      "type": "competes_with",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Samsung competes with Apple in smartphones and with Intel in chip manufacturing."
+      }
+    },
+    {
+      "source": "samsung",
+      "target": "intel",
+      "type": "competes_with",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Samsung competes with Apple in smartphones and with Intel in chip manufacturing."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "nvidia",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Taiwan's TSMC manufactures chips for Apple, NVIDIA, and AMD."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "amd",
+      "type": "partner_of",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Taiwan's TSMC manufactures chips for Apple, NVIDIA, and AMD."
+      }
+    },
+    {
+      "source": "apple",
+      "target": "taiwan",
+      "type": "located_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Taiwan's TSMC manufactures chips for Apple, NVIDIA, and AMD."
+      }
+    },
+    {
+      "source": "nvidia",
+      "target": "amd",
+      "type": "partner_of",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Taiwan's TSMC manufactures chips for Apple, NVIDIA, and AMD."
+      }
+    },
+    {
+      "source": "nvidia",
+      "target": "taiwan",
+      "type": "located_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Taiwan's TSMC manufactures chips for Apple, NVIDIA, and AMD."
+      }
+    },
+    {
+      "source": "amd",
+      "target": "taiwan",
+      "type": "located_in",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Taiwan's TSMC manufactures chips for Apple, NVIDIA, and AMD."
+      }
+    },
+    {
+      "source": "albert_einstein",
+      "target": "germany",
+      "type": "born_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Albert Einstein, born in Germany in 1879, developed the theory of relativity while working in Switzerland."
+      }
+    },
+    {
+      "source": "marie_curie",
+      "target": "poland",
+      "type": "born_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Marie Curie, born in Poland, conducted pioneering research on radioactivity in Paris, France."
+      }
+    },
+    {
+      "source": "marie_curie",
+      "target": "paris",
+      "type": "born_in",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "Marie Curie, born in Poland, conducted pioneering research on radioactivity in Paris, France."
+      }
+    },
+    {
+      "source": "berkeley",
+      "target": "california",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "CRISPR-Cas9 gene editing technology was developed by researchers at Berkeley in California."
+      }
+    },
+    {
+      "source": "berkeley",
+      "target": "crisprcas9",
+      "type": "developed",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "CRISPR-Cas9 gene editing technology was developed by researchers at Berkeley in California."
+      }
+    },
+    {
+      "source": "berkeley",
+      "target": "crispr",
+      "type": "developed",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "CRISPR-Cas9 gene editing technology was developed by researchers at Berkeley in California."
+      }
+    },
+    {
+      "source": "moderna",
+      "target": "pfizer",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Pfizer and Moderna used mRNA technology to develop COVID-19 vaccines, demonstrating the power of biotechnology in public health."
+      }
+    },
+    {
+      "source": "moderna",
+      "target": "mrna",
+      "type": "developed",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Pfizer and Moderna used mRNA technology to develop COVID-19 vaccines, demonstrating the power of biotechnology in public health."
+      }
+    },
+    {
+      "source": "pfizer",
+      "target": "mrna",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Pfizer and Moderna used mRNA technology to develop COVID-19 vaccines, demonstrating the power of biotechnology in public health."
+      }
+    },
+    {
+      "source": "larry_ellison",
+      "target": "oracle",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Larry Ellison founded Oracle in 1977 in Redmond, California."
+      }
+    },
+    {
+      "source": "larry_ellison",
+      "target": "1977",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Larry Ellison founded Oracle in 1977 in Redmond, California."
+      }
+    },
+    {
+      "source": "oracle",
+      "target": "relational_database",
+      "type": "developed",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Oracle developed relational database technology that became essential for enterprise computing."
+      }
+    },
+    {
+      "source": "salesforce",
+      "target": "san_francisco",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Marc Benioff founded Salesforce in San Francisco in 1999, pioneering cloud-based customer relationship management."
+      }
+    },
+    {
+      "source": "marc_benioff",
+      "target": "salesforce",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Marc Benioff founded Salesforce in San Francisco in 1999, pioneering cloud-based customer relationship management."
+      }
+    },
+    {
+      "source": "marc_benioff",
+      "target": "1999",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Marc Benioff founded Salesforce in San Francisco in 1999, pioneering cloud-based customer relationship management."
+      }
+    },
+    {
+      "source": "salesforce",
+      "target": "oracle",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "salesforce",
+      "target": "oracle_and_microsoft",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "oracle",
+      "type": "competes_with",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "salesforce",
+      "type": "competes_with",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "oracle_and_microsoft",
+      "type": "competes_with",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "oracle",
+      "target": "salesforce",
+      "type": "competes_with",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "oracle",
+      "target": "oracle_and_microsoft",
+      "type": "competes_with",
+      "weight": 0.6,
+      "properties": {
+        "confidence": 0.6,
+        "evidence": "Salesforce competes with Oracle and Microsoft in enterprise software."
+      }
+    },
+    {
+      "source": "salesforce",
+      "target": "stewart_butterfield",
+      "type": "founded_by",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Stewart Butterfield co-founded Slack in San Francisco, which Salesforce acquired in 2021."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "tesla",
+      "type": "works_for",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Tesla, led by Elon Musk, is developing self-driving technology in Austin, Texas."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "austin",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Tesla, led by Elon Musk, is developing self-driving technology in Austin, Texas."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "texas",
+      "type": "born_in",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Tesla, led by Elon Musk, is developing self-driving technology in Austin, Texas."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "selfdriving",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Tesla, led by Elon Musk, is developing self-driving technology in Austin, Texas."
+      }
+    },
+    {
+      "source": "tesla",
+      "target": "selfdriving",
+      "type": "developed",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Tesla, led by Elon Musk, is developing self-driving technology in Austin, Texas."
+      }
+    },
+    {
+      "source": "travis_kalanick",
+      "target": "san_francisco",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Uber, co-founded by Travis Kalanick in San Francisco, also invested in autonomous vehicles."
+      }
+    },
+    {
+      "source": "travis_kalanick",
+      "target": "uber",
+      "type": "founded_by",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Uber, co-founded by Travis Kalanick in San Francisco, also invested in autonomous vehicles."
+      }
+    },
+    {
+      "source": "travis_kalanick",
+      "target": "autonomous_vehicles",
+      "type": "developed",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Uber, co-founded by Travis Kalanick in San Francisco, also invested in autonomous vehicles."
+      }
+    },
+    {
+      "source": "max_levchin",
+      "target": "paypal",
+      "type": "founded_by",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Peter Thiel and Max Levchin co-founded PayPal in San Jose, California in 1998."
+      }
+    },
+    {
+      "source": "paypal",
+      "target": "san_jose",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Peter Thiel and Max Levchin co-founded PayPal in San Jose, California in 1998."
+      }
+    },
+    {
+      "source": "peter_thiel",
+      "target": "paypal",
+      "type": "founded_by",
+      "weight": 0.48,
+      "properties": {
+        "confidence": 0.48,
+        "evidence": "Peter Thiel and Max Levchin co-founded PayPal in San Jose, California in 1998."
+      }
+    },
+    {
+      "source": "peter_thiel",
+      "target": "san_jose",
+      "type": "born_in",
+      "weight": 0.42,
+      "properties": {
+        "confidence": 0.42,
+        "evidence": "Peter Thiel and Max Levchin co-founded PayPal in San Jose, California in 1998."
+      }
+    },
+    {
+      "source": "max_levchin",
+      "target": "san_jose",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Peter Thiel and Max Levchin co-founded PayPal in San Jose, California in 1998."
+      }
+    },
+    {
+      "source": "elon_musk",
+      "target": "paypal",
+      "type": "works_for",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Elon Musk's company X.com merged with PayPal before eBay acquired it."
+      }
+    },
+    {
+      "source": "paypal",
+      "target": "stripe",
+      "type": "competes_with",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "PayPal competes with Stripe, which was founded in San Francisco and developed payment processing technology."
+      }
+    },
+    {
+      "source": "square",
+      "target": "san_francisco",
+      "type": "located_in",
+      "weight": 0.85,
+      "properties": {
+        "confidence": 0.85,
+        "evidence": "Jack Dorsey also founded Square in San Francisco for mobile payments."
+      }
+    },
+    {
+      "source": "jack_dorsey",
+      "target": "square",
+      "type": "founded_by",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Jack Dorsey also founded Square in San Francisco for mobile payments."
+      }
+    },
+    {
+      "source": "jack_ma",
+      "target": "china",
+      "type": "born_in",
+      "weight": 0.44999999999999996,
+      "properties": {
+        "confidence": 0.44999999999999996,
+        "evidence": "Jack Ma founded Alibaba in 1999 in China, building the largest e-commerce platform in Asia."
+      }
+    },
+    {
+      "source": "pony_ma",
+      "target": "shenzhen",
+      "type": "born_in",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Pony Ma co-founded Tencent in Shenzhen, China, which developed WeChat and became one of the largest technology companies in Asia."
+      }
+    },
+    {
+      "source": "google",
+      "target": "microsoft",
+      "type": "partner_of",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Google, IBM, and Microsoft are investing heavily in quantum computing."
+      }
+    },
+    {
+      "source": "google",
+      "target": "ibm",
+      "type": "partner_of",
+      "weight": 0.57,
+      "properties": {
+        "confidence": 0.57,
+        "evidence": "Google, IBM, and Microsoft are investing heavily in quantum computing."
+      }
+    },
+    {
+      "source": "google",
+      "target": "quantum_computing",
+      "type": "developed",
+      "weight": 0.36,
+      "properties": {
+        "confidence": 0.36,
+        "evidence": "Google, IBM, and Microsoft are investing heavily in quantum computing."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "ibm",
+      "type": "partner_of",
+      "weight": 0.54,
+      "properties": {
+        "confidence": 0.54,
+        "evidence": "Google, IBM, and Microsoft are investing heavily in quantum computing."
+      }
+    },
+    {
+      "source": "microsoft",
+      "target": "quantum_computing",
+      "type": "developed",
+      "weight": 0.51,
+      "properties": {
+        "confidence": 0.51,
+        "evidence": "Microsoft is pursuing topological quantum computing at its research center in Redmond, Washington."
+      }
+    },
+    {
+      "source": "ibm",
+      "target": "quantum_computing",
+      "type": "developed",
+      "weight": 0.39,
+      "properties": {
+        "confidence": 0.39,
+        "evidence": "Google, IBM, and Microsoft are investing heavily in quantum computing."
+      }
+    },
+    {
+      "source": "ibm",
+      "target": "new_york",
+      "type": "located_in",
+      "weight": 0.32999999999999996,
+      "properties": {
+        "confidence": 0.32999999999999996,
+        "evidence": "IBM is developing quantum computers at its research lab in New York."
+      }
+    },
+    {
+      "source": "ibm",
+      "target": "york",
+      "type": "partner_of",
+      "weight": 0.3,
+      "properties": {
+        "confidence": 0.3,
+        "evidence": "IBM is developing quantum computers at its research lab in New York."
+      }
+    }
+  ],
+  "metadata": {
+    "node_count": 198,
+    "edge_count": 320,
+    "node_types": [
+      "LOCATION",
+      "PERSON",
+      "TECHNOLOGY",
+      "DATE",
+      "ORGANIZATION"
+    ],
+    "edge_types": [
+      "founded_by",
+      "located_in",
+      "acquired",
+      "works_for",
+      "born_in",
+      "competes_with",
+      "partner_of",
+      "developed"
+    ]
+  }
+}
